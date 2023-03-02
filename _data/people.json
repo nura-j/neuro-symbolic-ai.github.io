@@ -131,5 +131,13 @@
         "photo": "magdalena.webp",
         "e-mail": "",
         "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
+    },
+    {
+        "name": "Nura Aljaafari",
+        "position": "PhD Researcher",
+        "photo": "nura.png",
+        "e-mail": "nura.aljaafari@postgrad.manchester.ac.uk",
+        "bio": "Nura is a Ph.D. candidate at the Department of Computer Science at the University of Manchester. She obtained her MSc in Computer Science with a focus on Artificial Intelligence from King Abdullah University of Science and Technology (KAUST) and a BSc in Computer Science from King Faisal University. Her research interests are in the safety and robustness of NLP systems."
     }
+    
 ]
